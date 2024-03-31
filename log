@@ -1,0 +1,11 @@
+[33mcommit cc9a3db91e49b8b9a36b713ddd50a70f1e95809d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: batu-os <batusadi10@gmail.com>
+Date:   Sun Mar 31 04:14:10 2024 +0300
+
+    ilk commit
+
+[33mcommit 3714d8dd23ae767b441de6d61169d9052674c09a[m
+Author: batu-os <batusadi10@gmail.com>
+Date:   Sun Mar 31 03:27:46 2024 +0300
+
+    Initialize project using Create React App
